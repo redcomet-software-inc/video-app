@@ -24,6 +24,7 @@ function createWindow () {
   win.loadURL(`file://${__dirname}/index.html`)
   // Open the DevTools.
   win.webContents.openDevTools()
+  //teste
 
 
   // Emitted when the window is closed.
